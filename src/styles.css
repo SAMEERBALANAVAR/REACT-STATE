@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+
+p {
+  color: aqua;
+  font-family: "RocknRoll One", sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+button {
+  padding: 2;
+  border: white;
+  font-family: "RocknRoll One", sans-serif;
+  padding-bottom: 10px;
+  text-align: center;
+  border-radius: 25px;
+  background-color: yellow;
+}
